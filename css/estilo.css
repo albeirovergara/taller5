@@ -1,0 +1,19 @@
+img{
+    width: 80%;
+}
+
+.gridContenedor{
+
+    display: grid;
+    grid-template-columns: auto auto auto auto ;
+    
+   
+
+}
+.marvel>div{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20%;
+    margin-right: 30%;
+}
+
